@@ -5,7 +5,7 @@ My interests and hobbies include.
 - Machine learning and Artifial Intelligence
 - Full stack engineering 
 - C# and dotnet techonologies 
-- Well written code 
+- Clean code
 
 
 Here are some projects I have contributed to 
