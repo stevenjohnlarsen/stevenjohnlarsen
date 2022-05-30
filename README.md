@@ -10,10 +10,10 @@ My interests and hobbies include.
 
 Here are some projects I have contributed to 
  - Gain Training with discriminator setback. 
-  - Proposed and tested a new method to training GANs.
-  - [Paper](https://github.com/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/Discriminator_Weight_Stepback.pdf) 
-  - [Results](https://nbviewer.org/github/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/GraphsForPaper-No-Feature-Matching.ipynb)
-  - [code](https://github.com/stevenjohnlarsen/GAN-discriminator-refresh-learning) 
+   - Proposed and tested a new method to training GANs.
+   - [Paper](https://github.com/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/Discriminator_Weight_Stepback.pdf) 
+   - [Results](https://nbviewer.org/github/stevenjohnlarsen/GAN-discriminator-refresh-learning/blob/main/GraphsForPaper-No-Feature-Matching.ipynb)
+   - [code](https://github.com/stevenjohnlarsen/GAN-discriminator-refresh-learning) 
 - Learned Rubiks
   - Created an IPhone application to teach others how to solve a rubiks cube.
   - Alowed users to take various photos of the cube to the application could represent it virtually 
